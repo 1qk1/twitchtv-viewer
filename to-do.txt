@@ -1,0 +1,5 @@
+1. add a search feature
+2. add preview and a readme of the website on github
+3. maybe add some animations
+4. remake the whole thing with react/vue later and save previous user stream inputs
+4.5 host it on heroku
